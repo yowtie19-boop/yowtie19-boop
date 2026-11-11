@@ -1,4 +1,6 @@
 <div align="center">
+![Naruto Yell GIF](Naruto_Yell_GIF_by_Xbox.gif)
+
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
