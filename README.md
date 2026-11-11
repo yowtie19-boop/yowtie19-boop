@@ -1,4 +1,4 @@
-# 🚀 Risen Lord Beneficiary System
+
 
 **Next.js 16 + Prisma + Next-Auth + PostgreSQL** — full-stack beneficiary & program management SaaS.
 
