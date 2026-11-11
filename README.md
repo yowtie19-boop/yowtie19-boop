@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./Naruto_Yell_GIF_by_Xbox.gif" width="100%" alt="BER TSKI | IT DEVELOPER" />
+</div>
+
+<div align="center">
 ![Naruto Yell GIF](Naruto_Yell_GIF_by_Xbox.gif)
 
 
